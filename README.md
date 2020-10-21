@@ -53,6 +53,10 @@ udp://tracker.acgnx.se/announce（添加前两个即可）
 AcgnX Torrent Global會轉載Nyaa.si的資料。
 
 
+
+https://getcomics.info
+
+
 ```
 ```
 https://www.comss.ru/
