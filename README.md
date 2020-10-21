@@ -54,3 +54,29 @@ AcgnX Torrent Global會轉載Nyaa.si的資料。
 
 
 ```
+```
+https://www.comss.ru/
+https://www.sordum.org/
+https://docs.microsoft.com/en-us/sysinternals/downloads
+https://bbs.kafan.cn/forum-65-1.html
+https://www.nirsoft.net/
+https://www.4download.net/
+
+https://www.cr173.com/
+
+https://www.torrentmac.net/
+
+https://tb.rg-adguard.net/
+```
+```
+https://audioz.download/
+https://plugintorrent.com/
+https://www.4download.net/
+```
+```
+https://www.iphonecake.com/
+
+https://cydia-app.com/
+
+https://audiob.us/apps
+```
