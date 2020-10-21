@@ -84,3 +84,12 @@ https://cydia-app.com/
 
 https://audiob.us/apps
 ```
+```
+https://www.ebookee.net/
+```
+```
+dianying.fm
+https://www.weidea.net/
+https://www.lookae.com/
+
+```
