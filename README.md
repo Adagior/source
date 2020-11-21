@@ -76,6 +76,9 @@ https://www.torrentmac.net/
 https://tb.rg-adguard.net/
 ```
 ```
+https://dlpure.com/
+https://www.lookae.com/
+
 https://audioz.download/
 https://plugintorrent.com/
 https://www.4download.net/
@@ -95,7 +98,7 @@ www.free-webhosts.com
 dianying.fm
 
 https://www.weidea.net/
-https://www.lookae.com/
+
 
 https://www.demolandia.net/
 http://www.demo-world.eu/
