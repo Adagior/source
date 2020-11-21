@@ -69,15 +69,19 @@ https://bbs.kafan.cn/forum-65-1.html
 https://www.nirsoft.net/
 https://www.4download.net/
 
-https://www.cr173.com/
+
 
 https://www.torrentmac.net/
 
 https://tb.rg-adguard.net/
 ```
 ```
+
 https://dlpure.com/
 https://www.lookae.com/
+www.aiweibk.com
+
+https://www.cr173.com/
 
 https://audioz.download/
 https://plugintorrent.com/
