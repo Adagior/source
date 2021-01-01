@@ -73,6 +73,7 @@ https://www.4download.net/
 
 https://www.torrentmac.net/
 http://mactorrent.co/
+filehorse.com
 
 https://tb.rg-adguard.net/
 ```
