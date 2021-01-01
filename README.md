@@ -86,6 +86,7 @@ https://c4dsky.com/
 www.aiweibk.com
 
 https://www.cr173.com/
+https://www.vfxmed.com/
 
 https://audioz.download/
 https://plugintorrent.com/
