@@ -83,11 +83,12 @@ https://dlpure.com/
 https://www.lookae.com/
 https://www.mfcpx.com/
 https://c4dsky.com/
-www.aiweibk.com
+https://www.vfxmed.com/
 
 https://onhax.io/
 https://www.cr173.com/
-https://www.vfxmed.com/
+www.aiweibk.com
+
 
 https://audioz.download/
 https://plugintorrent.com/
