@@ -59,6 +59,8 @@ AcgnX Torrent Global會轉載Nyaa.si的資料。
 
 
 https://getcomics.info
+https://artbooks.gala100.net/
+
 http://rarbg.to/index80.php
 
 ```
