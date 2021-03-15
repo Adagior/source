@@ -74,6 +74,7 @@ https://www.nirsoft.net/
 https://www.4download.net/
 
 
+http://torrentmac.org/
 
 https://www.torrentmac.net/
 http://mactorrent.co/
