@@ -56,7 +56,7 @@ udp://tracker.acgnx.se/announce（添加前两个即可）
 末日動漫資源庫 和 旋风动漫 這兩個站點會轉載花園的資料，
 AcgnX Torrent Global會轉載Nyaa.si的資料。
 
-
+http://www.comicat.org/
 
 https://getcomics.info
 https://artbooks.gala100.net/
