@@ -65,11 +65,11 @@ http://rarbg.to/index80.php
 
 ```
 ```
+https://startcrack.com/
 https://www.comss.ru/
 https://www.sordum.org/
 https://www.rizonesoft.com/downloads/
 https://docs.microsoft.com/en-us/sysinternals/downloads
-https://bbs.kafan.cn/forum-65-1.html
 https://www.nirsoft.net/
 https://www.4download.net/
 
