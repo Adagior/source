@@ -61,9 +61,7 @@ http://www.comicat.org/
 https://getcomics.info
 https://artbooks.gala100.net/
 
-http://rarbg.to/index80.php
 
-http://zmk.pw/
 
 ```
 ```
@@ -134,10 +132,19 @@ https://www.se7ensins.com/
 
 http://forum.ragezone.com/
 
-https://pcgamestorrents.com/
 ```
 ```
 https://github.com/ngosang/trackerslist
 
 https://newtrackon.com/
+```
+```
+http://rarbg.to/index80.php
+http://zmk.pw/
+
+https://pcgamestorrents.com/           https://igg-games.com/
+
+https://torrentgalaxy.to/
+https://glodls.to/
+
 ```
