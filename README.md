@@ -4,6 +4,8 @@ sm.ms
 
 stasyq
 ```
+https://igfonts.io/
+
 转到屏幕顶部的URL空间，然后输入单词“ NSFW”。 确保将这些词放在www和youtube之间。 这样，您的网址应该是www.nsfwyoutube.com/…
 
 转到YouTube视频的URL，然后在www和YouTube之间输入字母“ pwn”。 这样它将是www.pwnyoutube.com
