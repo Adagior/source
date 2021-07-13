@@ -152,6 +152,7 @@ http://zmk.pw/
 https://pcgamestorrents.com/           https://igg-games.com/
 https://fitgirl-repacks.to/
 
+https://1337x.to/
 https://torrentgalaxy.to/
 https://glodls.to/
 
