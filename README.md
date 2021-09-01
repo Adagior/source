@@ -104,7 +104,6 @@ https://getintopc.com/
 https://onhax.io/
 https://ftuapps.dev/
 
-https://onehack.us/
 
 https://www.cr173.com/
 www.aiweibk.com
