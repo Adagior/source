@@ -161,4 +161,6 @@ https://kickass.sx/
 https://torrentgalaxy.to/
 https://glodls.to/
 
+
+https://www.ricochetuniverse.com/
 ```
