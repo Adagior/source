@@ -81,7 +81,7 @@ https://www.rizonesoft.com/downloads/
 https://docs.microsoft.com/en-us/sysinternals/downloads
 https://www.nirsoft.net/
 https://www.4download.net/
-
+https://crackshash.com/
 
 http://torrentmac.org/
 
