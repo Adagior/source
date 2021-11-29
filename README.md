@@ -5,6 +5,7 @@ sm.ms
 verifywithsms.com
 
 stasyq
+https://substance3d.adobe.com/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html
 ```
 https://igfonts.io/
 
