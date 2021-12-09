@@ -160,6 +160,8 @@ http://zmk.pw/
 https://pcgamestorrents.com/           https://igg-games.com/
 https://fitgirl-repacks.to/
 
+https://cs.rin.ru/
+
 https://1337xto.to/
 https://kickass.sx/
 https://torrentgalaxy.to/
