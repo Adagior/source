@@ -1,3 +1,7 @@
+# steam
+F12 console
+AddFreeLicense(sub)
+
 # source
 https://predb.pw/index.php
 
