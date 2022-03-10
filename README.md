@@ -1,3 +1,7 @@
+# ublock
+```
+www.youtube.com##.ytp-ce-element-show
+```
 # steam
 ```
 F12 console
