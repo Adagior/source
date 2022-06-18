@@ -102,6 +102,7 @@ http://torrentmac.org/
 
 https://www.torrentmac.net/
 http://mactorrent.co/
+https://mac-torrent-download.net/
 soft.macx.cn/
 
 https://tb.rg-adguard.net/
