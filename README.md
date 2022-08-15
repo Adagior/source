@@ -8,31 +8,7 @@ F12 console
 
 AddFreeLicense(sub)
 
-So I've known for a while how to do very basic SCM searches using the search boxes. The main one being stuff like this:
-
-http://steamcommunity.com/market/listings/570/Genuine%20Smeevil?filter=Smeevil+NOT+Locked
-
-But what if you only care about a specific style? This eluded me for awhile until I spent 20 minutes trying stuff today, and I finally figured it out. Tada!
-
-http://steamcommunity.com/market/listings/570/Genuine%20Smeevil?filter=Dyed+Crab+NOT+%22Dyed+Crab+%28Locked%29%22
-
-The magic is around the double quotes at the end since it says "Not any items that say exactly this phrase". Without the quotes, it just searches each word across the entire description, regardless of order.
-
-Multiple styles? Tada!
-
-http://steamcommunity.com/market/listings/570/Genuine%20Smeevil?filter=Dyed+Crab+NOT+%22Dyed+Crab+%28Locked%29%22+NOT+%22Yellow+Smeevil+and+Bird+%28Locked%29%22
-
-The only 3 operators in that search box I know about are:
-
-NOT
-
-AND
-
-OR
-
-Basically, really really simple SQL stuff. But I can't find any documentation around it; just organic home grown stuff out there on forums and what I've tried out myself. It's helpful considering with buy orders, style unlocks and Prismatics/Ethereals are the last frontier in the market.
-
-So what other neat things have y'all found? I'm sure some people prefer to keep this kind of stuff a secret, but I take the stance of "sharing is caring". =) I also find this kind of stuff neat.
+https://www.reddit.com/r/Dota2Trade/comments/4ba4o7/discussion_advanced_steam_market_searches/
 ```
 
 # source
