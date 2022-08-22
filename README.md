@@ -177,6 +177,7 @@ https://fitgirl-repacks.to/
 
 https://cs.rin.ru/
 https://www.skidrowcodex.net/
+https://steamrip.com/
 
 https://1337xto.to/
 https://kickass.sx/
