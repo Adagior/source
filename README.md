@@ -17,6 +17,7 @@ https://predb.pw/index.php
 sm.ms
 
 verifywithsms.com
+https://www.textverified.com/
 
 stasyq
 https://jav.guru/
