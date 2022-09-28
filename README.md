@@ -18,6 +18,8 @@ sm.ms
 
 verifywithsms.com
 https://www.textverified.com/
+https://smsreceivefree.com/
+
 
 stasyq
 https://jav.guru/
