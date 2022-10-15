@@ -22,6 +22,8 @@ https://www.textverified.com/
 
 https://smsreceivefree.com/
 
+https://10minutemail.com/
+
 
 stasyq
 
