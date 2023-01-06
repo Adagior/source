@@ -26,7 +26,7 @@ https://10minutemail.com/
 
 maildrop.cc
 
-stasyq
+stasyq avgle 1202062
 
 
 https://substance3d.adobe.com/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html
