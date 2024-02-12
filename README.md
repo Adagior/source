@@ -5,6 +5,8 @@ www.youtube.com##.ytp-ce-element-show
 # steam
 ```
 F12 console
+steam://nav/console
+download_depot <appid> <depotid> [<target manifestid>] [<delta manifestid>] [<depot flags filter>] : download a single depot
 
 AddFreeLicense(sub)
 
