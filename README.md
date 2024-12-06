@@ -200,7 +200,6 @@ https://torrentgalaxy.to/
 https://glodls.to/
 https://www.thenextplanet.blog/
 
-https://www.ddlvalley.me/
 
 
 https://www.ricochetuniverse.com/
