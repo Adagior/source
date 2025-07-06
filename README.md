@@ -147,6 +147,8 @@ https://www.4download.net/
 
 ```
 ```
+https://www.ios-repo-updates.com/
+
 https://www.iphonecake.com/
 
 https://cydia-app.com/
