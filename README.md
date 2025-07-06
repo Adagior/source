@@ -148,6 +148,9 @@ https://www.4download.net/
 ```
 ```
 https://www.ios-repo-updates.com/
+LocalIAPStore     Apple File Conduit
+https://apt.cydiakk.com/
+
 
 https://www.iphonecake.com/
 
